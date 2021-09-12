@@ -25,7 +25,9 @@ Double live, in their middle age, Prefer to keep partitions according to functio
 ## Research
 ###### hypothetical site:
 A cluster site - a larger parcel where multiple residences could be located in a small planned development
-![site1-1](assets/9.13-1.png)
+![site1-1](https://github.com/Nancyuz/Nancy/blob/master/assets/9.13-1.png?raw=true)
+![site1-2](https://github.com/Nancyuz/Nancy/blob/master/assets/9.13-2.png?raw=true)
+![site1-3](https://github.com/Nancyuz/Nancy/blob/master/assets/9.13-3.png?raw=true)
 
 ###### Technologies for small living:
 ![1](https://github.com/Nancyuz/Nancy/blob/master/assets/9.8/1.png?raw=true)
