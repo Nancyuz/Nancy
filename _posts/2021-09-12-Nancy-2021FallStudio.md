@@ -7,7 +7,7 @@ author:
 meta:
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+Hi,everyone! My name is Nancy, a junior in Wenzhou-Kean University. Here is my studio project, plug-in house, in 2021FALL semester.
 
 ## Case Study
 ![plan1](https://github.com/Nancyuz/Nancy/blob/master/assets/1.png?raw=true)
