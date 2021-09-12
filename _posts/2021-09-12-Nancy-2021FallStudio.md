@@ -9,106 +9,45 @@ meta:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
-## Some great heading (h2)
+## Case Study
+![plan1](https://github.com/Nancyuz/Nancy/blob/master/assets/1.png?raw=true)
+![plan2](https://github.com/Nancyuz/Nancy/blob/master/assets/2.png?raw=true)
+![otherinfo1](https://github.com/Nancyuz/Nancy/blob/master/assets/3.jpg?raw=true)
+![plan3](https://github.com/Nancyuz/Nancy/blob/master/assets/5.png?raw=true)
+![otherinfo2](https://github.com/Nancyuz/Nancy/blob/master/assets/4.jpg?raw=true)
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
+###### Definition of home
+Home is a plug-in system of different components. Plug-in structures can make good use of space to bring different elements together. As well, people’s activities in space can be considered as a plug-in movement to a certain machine, like a table or a bed. Many homes can also be coalesced into a bigger house or a community to socialize in a plug-in system.
 
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+###### Define a client
+Double live, in their middle age, Prefer to keep partitions according to functions, but also accept the blurring of some of them, Working as clerks in companies, Require for working places and cooking places.
 
-## Another great heading (h2)
+## Research
+###### hypothetical site:
+A cluster site - a larger parcel where multiple residences could be located in a small planned development
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+###### Technologies for small living:
+![1](https://github.com/Nancyuz/Nancy/blob/master/assets/9.8/1.png?raw=true)
+![2](https://github.com/Nancyuz/Nancy/blob/master/assets/9.8/2.png?raw=true)
+![3](https://github.com/Nancyuz/Nancy/blob/master/assets/9.8/3.jpg?raw=true)
+![4](ahttps://github.com/Nancyuz/Nancy/blob/master/assets/9.8/4.png?raw=true)
+![5](https://github.com/Nancyuz/Nancy/blob/master/assets/9.8/5.png?raw=true)
+![6](https://github.com/Nancyuz/Nancy/blob/master/assets/9.8/6.png?raw=true)
+![7](https://github.com/Nancyuz/Nancy/blob/master/assets/9.8/7.png?raw=true)
+![8](https://github.com/Nancyuz/Nancy/blob/master/assets/9.8/8.jpg?raw=true)
+![9](https://github.com/Nancyuz/Nancy/blob/master/assets/9.8/9.png?raw=true)
+![10](https://github.com/Nancyuz/Nancy/blob/master/assets/9.8/10.jpeg?raw=true)
+![11](ahttps://github.com/Nancyuz/Nancy/blob/master/assets/9.8/11.jpeg?raw=true)
 
-### Some great subheading (h3)
+###### Sketches
+![12](https://github.com/Nancyuz/Nancy/blob/master/assets/9.8/12.jpg?raw=true)
+![13](https://github.com/Nancyuz/Nancy/blob/master/assets/9.8/13.jpg?raw=true)
+![14](https://github.com/Nancyuz/Nancy/blob/master/assets/9.8/14.jpg?raw=true)
+![15](https://github.com/Nancyuz/Nancy/blob/master/assets/9.8/15.jpg?raw=true)
+![16](https://github.com/Nancyuz/Nancy/blob/master/assets/9.8/16.jpg?raw=true)
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
-
-Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
-
-### Some great subheading (h3)
-
-Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-> This quote will *change* your life. It will reveal the <i>secrets</i> of the universe, and all the wonders of humanity. Don't <em>misuse</em> it.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
-
-### Some great subheading (h3)
-
-Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
-
-```html
-<html>
-  <head>
-  </head>
-  <body>
-    <p>Hello, World!</p>
-  </body>
-</html>
-```
-
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### You might want a sub-subheading (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### But it's probably overkill (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-##### Could be a smaller sub-heading, `pacman` (h5)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-###### Small yet significant sub-heading  (h6)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-### Oh hai, an unordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-- First item, yo
-- Second item, dawg
-- Third item, what what?!
-- Fourth item, fo sheezy my neezy
-
-### Oh hai, an ordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-1. First item, yo
-2. Second item, dawg
-3. Third item, what what?!
-4. Fourth item, fo sheezy my neezy
-
-
-
-## Headings are cool! (h2)
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
-
-### Tables
-
-Title 1               | Title 2               | Title 3               | Title 4
---------------------- | --------------------- | --------------------- | ---------------------
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-
-
-Title 1 | Title 2 | Title 3 | Title 4
---- | --- | --- | ---
-lorem | lorem ipsum | lorem ipsum dolor | lorem ipsum dolor sit
-lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur | lorem ipsum dolor sit amet | lorem ipsum dolor sit
-lorem ipsum dolor | lorem ipsum | lorem | lorem ipsum
-lorem ipsum dolor | lorem ipsum dolor sit | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur
+## Resources
+NEVER TOO SMALL 19sqm/205sqft Micro Apartment & Co Living Space – UKO
+NEVER TOO SMALL 38sqm/410sqft Small Apartment - Older Downsizers
+http://www.artpower100.com/newsitem/278411300
+https://www.archdaily.com/399329/ad-classics-the-plug-in-city-peter-cook-archigram
