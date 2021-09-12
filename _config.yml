@@ -1,12 +1,7 @@
 title: Plug-in House
 author: Nancy
-  name: GitHub User
-  email: your-email@domain.com
-=======
-author: Xiaoyu Zhang
-name: Xiaoyu
+name: GitHub User
 email: your-email@domain.com
->>>>>>> 870869cbf4679625d307f892116296356b960f76
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
