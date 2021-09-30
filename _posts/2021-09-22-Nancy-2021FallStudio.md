@@ -7,7 +7,9 @@ author:
 meta:
 ---
 
-## Technology Design
-![plan1]()
+## Technology Research
+![plan1](https://github.com/Nancyuz/Nancy/blob/master/assets/box%20beam/images.jpg?raw=true)
 
-![plan1]()
+![plan1](https://github.com/Nancyuz/Nancy/blob/master/assets/box%20beam/9%20(2).jpg?raw=true)
+
+![plan1](https://github.com/Nancyuz/Nancy/blob/master/assets/box%20beam/download.jpg?raw=true)
