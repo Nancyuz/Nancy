@@ -7,7 +7,7 @@ author:
 meta:
 ---
 
-Hi,everyone! My name is Nancy, a junior in Wenzhou-Kean University. Here is my studio project, plug-in house, in 2021FALL semester.
-
 ## Design Process 1
-![plan1](https://github.com/Nancyuz/Nancy/blob/master/assets/1.png?raw=true)
+![plan1](https://github.com/Nancyuz/Nancy/blob/master/assets/9.15-11%20%5B%E8%BD%AC%E6%8D%A2%5D.jpg?raw=true)
+
+![plan1](https://github.com/Nancyuz/Nancy/blob/master/assets/9.15-22%20%5B%E8%BD%AC%E6%8D%A2%5D.jpg?raw=true)
