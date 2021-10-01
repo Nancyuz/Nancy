@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Plug-in House Representation"
+title: "Drawing Display"
 categories:
 author:
 - Nancy
