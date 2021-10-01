@@ -32,4 +32,6 @@ meta:
 
 
 ###### Process
-![Process1](https://raw.githubusercontent.com/Nancyuz/Nancy/master/assets/precedent.jpg)
+![Process1](https://raw.githubusercontent.com/Nancyuz/Nancy/master/assets/1.jpg)
+
+![Process2](https://raw.githubusercontent.com/Nancyuz/Nancy/master/assets/1.jpg)
