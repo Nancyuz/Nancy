@@ -28,4 +28,8 @@ meta:
 
 
 ###### Precedents
-![Precedents]()
+![Precedents](https://raw.githubusercontent.com/Nancyuz/Nancy/master/assets/precedent.jpg)
+
+
+###### Process
+![Process1](https://raw.githubusercontent.com/Nancyuz/Nancy/master/assets/precedent.jpg)
