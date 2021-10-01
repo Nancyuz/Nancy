@@ -12,10 +12,11 @@ meta:
 ## Plug-in House
 -- Xiaoyu Zhang, Nancy
 
+
 Floor Area: 20m² (215.28ft²)
 Interior Volume: 70m³
 Site Type: Suburban Area in Salt Lake City, Nature Environment in the Mountain
-
+![site](https://github.com/Nancyuz/Nancy/blob/master/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211001115728.png?raw=true)
 Material: Recycled Plastic, Wooden Board and Metal Columns
 
 
