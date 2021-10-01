@@ -21,6 +21,8 @@ Site Type: Suburban Area in Salt Lake City, Nature Environment in the Mountain
 
 Material: Recycled Plastic, Wooden Board and Metal Columns
 
+Typical Owner: People who love to live in  a sustainable house and constructed their house by themselves in an easy interesting way.
+
 ![site](https://github.com/Nancyuz/Nancy/blob/master/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211001115728.png?raw=true)
 
 
