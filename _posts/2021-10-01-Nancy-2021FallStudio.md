@@ -16,3 +16,8 @@ meta:
 
 
 ###### Exterior Photosphere
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/Nancyuz/Nancy/master/assets/extorior%2520photosphere.jpg&autoLoad=true"></iframe>
+
+
+###### Interior Photosphere
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/Nancyuz/Nancy/master/assets/interior%2520photosphere.jpg&autoLoad=true"></iframe>
