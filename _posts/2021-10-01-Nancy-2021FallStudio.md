@@ -25,3 +25,7 @@ meta:
 
 ###### GIF
 ![GIF](https://raw.githubusercontent.com/Nancyuz/Nancy/master/assets/gif.gif)
+
+
+###### Precedents
+![Precedents]()
