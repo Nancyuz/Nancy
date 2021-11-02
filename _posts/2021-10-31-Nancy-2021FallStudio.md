@@ -15,7 +15,7 @@ meta:
 
 
 ###### Final Board
-![final board](https://github.com/Nancyuz/Nancy/blob/master/assets/Plug-in%20House10.29.jpg?raw=true)
+![final board](https://github.com/Nancyuz/Nancy/blob/master/assets/A07Nancy.png?raw=true)
 
 ###### Final Model
 ![final model1](https://github.com/Nancyuz/Nancy/blob/master/assets/model/1.jpg?raw=true)
