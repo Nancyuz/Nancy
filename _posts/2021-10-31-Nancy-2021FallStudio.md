@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Final Submission"
+title: "Complex Final Pre"
 categories:
 author:
 - Nancy
@@ -9,12 +9,12 @@ meta:
 
 
 
-## Final Display
+## Complex Final Pre
 -- Xiaoyu Zhang, Nancy
 
 
 
-###### Final Board
+###### Complex Final Board
 ![final board](https://github.com/Nancyuz/Nancy/blob/master/assets/A07Nancy.png?raw=true)
 
 ###### Final Model
