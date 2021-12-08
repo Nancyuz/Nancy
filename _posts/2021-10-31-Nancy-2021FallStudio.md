@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Complex Final Pre"
+title: "Plug-in House"
 categories:
 author:
 - Nancy
@@ -9,12 +9,12 @@ meta:
 
 
 
-## Complex Final Pre
+## Plug-in House
 -- Xiaoyu Zhang, Nancy
 
 
 
-###### Complex Final Board
+###### Tiny House Final Board
 ![final board](https://github.com/Nancyuz/Nancy/blob/master/assets/A07Nancy.png?raw=true)
 
 ###### Final Model
