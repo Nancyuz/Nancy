@@ -15,6 +15,8 @@ meta:
 
 
 ###### Research Drawings
-![1](https://github.com/Nancyuz/Nancy/blob/master/assets/12.%20Sugar%20and%20Nancy-1.jpg?raw=true)
+![1](https://github.com/Nancyuz/Nancy/blob/master/assets/modelfinal/site%20research%20(wind),%20Sugar%20and%20Nancy.png?raw=true)
+By: Nancy, Sugar
 
-![2](https://github.com/Nancyuz/Nancy/blob/master/assets/12.%20Sugar%20and%20Nancy-2.jpg?raw=true)
+![2](https://github.com/Nancyuz/Nancy/blob/master/assets/modelfinal/%E5%9C%B0%E5%BD%A2%E5%88%86%E6%9E%90.png?raw=true)
+By: Vink, Ollie
