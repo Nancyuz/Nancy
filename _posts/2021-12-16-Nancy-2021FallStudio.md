@@ -15,10 +15,22 @@ meta:
 
 
 ###### Final Model
-![final board1](https://github.com/Nancyuz/Nancy/blob/master/assets/PNG12.16.png?raw=true)
+![1](https://github.com/Nancyuz/Nancy/blob/master/assets/modelfinal/1.jpg?raw=true)
 
-![final board2](https://github.com/Nancyuz/Nancy/blob/master/assets/PNG12.162.png?raw=true)
+![2](https://github.com/Nancyuz/Nancy/blob/master/assets/modelfinal/2.jpg?raw=true)
 
-###### Floatopia: Animation
-[2021-12-16-Animation][606ca56e]
-  [606ca56e]: https://youtu.be/jogpEO3951s "Floatopia"
+![3](https://github.com/Nancyuz/Nancy/blob/master/assets/modelfinal/3.jpg?raw=true)
+
+![4](https://github.com/Nancyuz/Nancy/blob/master/assets/modelfinal/4.jpg?raw=true)
+
+![5](https://github.com/Nancyuz/Nancy/blob/master/assets/modelfinal/5.png?raw=true)
+
+![6](https://github.com/Nancyuz/Nancy/blob/master/assets/modelfinal/6.jpg?raw=true)
+
+![7](https://github.com/Nancyuz/Nancy/blob/master/assets/modelfinal/7.jpg?raw=true)
+
+![8](https://github.com/Nancyuz/Nancy/blob/master/assets/modelfinal/8.jpg?raw=true)
+
+![9](https://github.com/Nancyuz/Nancy/blob/master/assets/modelfinal/9.jpg?raw=true)
+
+![10](https://github.com/Nancyuz/Nancy/blob/master/assets/modelfinal/10.jpg?raw=true)
