@@ -14,7 +14,7 @@ meta:
 
 
 
-###### Floatopia, Sugar and Nancy
+###### Final Model
 ![final board1](https://github.com/Nancyuz/Nancy/blob/master/assets/PNG12.16.png?raw=true)
 
 ![final board2](https://github.com/Nancyuz/Nancy/blob/master/assets/PNG12.162.png?raw=true)
