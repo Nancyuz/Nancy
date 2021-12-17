@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Complex Final Submission"
+title: "Complex Final Model"
 categories:
 author:
 - Nancy
@@ -9,7 +9,7 @@ meta:
 
 
 
-## Complex Final Submission
+## Final Model
 -- Xiaoyu Zhang, Nancy
 
 
